@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0CumKUqqscX7K+e6pmuHCF1JvCyiAdaPOmIIU4QyXLdnr3s5gimwPx9jqOBn7vJt8t7HPDiAIYVaMv93HR07pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\Academy.app\\Academy.app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
