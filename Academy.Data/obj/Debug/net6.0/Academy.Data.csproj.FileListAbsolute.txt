@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Academy.Data\bin\Debug\net6.0\Academy.Data.deps.json
+C:\Users\admin\source\repos\Academy.Data\bin\Debug\net6.0\Academy.Data.dll
+C:\Users\admin\source\repos\Academy.Data\bin\Debug\net6.0\Academy.Data.pdb
+C:\Users\admin\source\repos\Academy.Data\bin\Debug\net6.0\Academy.core.dll
+C:\Users\admin\source\repos\Academy.Data\bin\Debug\net6.0\Academy.core.pdb
+C:\Users\admin\source\repos\Academy.Data\obj\Debug\net6.0\Academy.Data.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Academy.Data\obj\Debug\net6.0\Academy.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Academy.Data\obj\Debug\net6.0\Academy.Data.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Academy.Data\obj\Debug\net6.0\Academy.Data.AssemblyInfo.cs
+C:\Users\admin\source\repos\Academy.Data\obj\Debug\net6.0\Academy.Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Academy.Data\obj\Debug\net6.0\Academy.Data.csproj.CopyComplete
+C:\Users\admin\source\repos\Academy.Data\obj\Debug\net6.0\Academy.Data.dll
+C:\Users\admin\source\repos\Academy.Data\obj\Debug\net6.0\refint\Academy.Data.dll
+C:\Users\admin\source\repos\Academy.Data\obj\Debug\net6.0\Academy.Data.pdb
+C:\Users\admin\source\repos\Academy.Data\obj\Debug\net6.0\ref\Academy.Data.dll

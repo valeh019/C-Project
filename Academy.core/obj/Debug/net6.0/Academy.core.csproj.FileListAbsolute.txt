@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Academy.core\bin\Debug\net6.0\Academy.core.deps.json
+C:\Users\admin\source\repos\Academy.core\bin\Debug\net6.0\Academy.core.dll
+C:\Users\admin\source\repos\Academy.core\bin\Debug\net6.0\Academy.core.pdb
+C:\Users\admin\source\repos\Academy.core\obj\Debug\net6.0\Academy.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Academy.core\obj\Debug\net6.0\Academy.core.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Academy.core\obj\Debug\net6.0\Academy.core.AssemblyInfo.cs
+C:\Users\admin\source\repos\Academy.core\obj\Debug\net6.0\Academy.core.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Academy.core\obj\Debug\net6.0\Academy.core.dll
+C:\Users\admin\source\repos\Academy.core\obj\Debug\net6.0\refint\Academy.core.dll
+C:\Users\admin\source\repos\Academy.core\obj\Debug\net6.0\Academy.core.pdb
+C:\Users\admin\source\repos\Academy.core\obj\Debug\net6.0\ref\Academy.core.dll

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Academy.Service/1.0.0": {
+        "dependencies": {
+          "Academy.Data": "1.0.0",
+          "Academy.core": "1.0.0"
+        },
+        "runtime": {
+          "Academy.Service.dll": {}
+        }
+      },
+      "Academy.core/1.0.0": {
+        "runtime": {
+          "Academy.core.dll": {}
+        }
+      },
+      "Academy.Data/1.0.0": {
+        "dependencies": {
+          "Academy.core": "1.0.0"
+        },
+        "runtime": {
+          "Academy.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Academy.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Academy.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Academy.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
